@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "QUBIC"]
-	path = QUBIC
-	url = https://github.com/zy26/qubic
-	shallow = true
-	registered = true
